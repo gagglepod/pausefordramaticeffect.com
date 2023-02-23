@@ -3,6 +3,7 @@ title: Chapter 14 - Groundhog
 date: 2022-12-30
 author: Kyle M. Bondo
 desc: Douglas reveals how he got the upper hand on Thomas and Zababa.
+img: /img/pausefordramaticeffect.com-ch01-hero-2022.jpg
 imgWidth: 700
 imgHeight: 400
 ---
