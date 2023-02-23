@@ -1,18 +1,61 @@
 ---
-import type { Post } from '@data/post';
-const post: Post = Astro.props.post
+import type { Post } from "@data/post";
+const post: Post = Astro.props.post;
 ---
 
-<div class="py-6 flex flex-row-reverse gap-6 md:gap-10 items-start">
-	{post.img &&
-		<a href={`/${post.slug}`} class="shrink-0">
-			<img src={post.img} alt={post.title} width="160" height="160" class="w-20 h-20 md:w-40 md:h-40 rounded bg-base-200 object-cover" />
-		</a>
-	}
-	<div class="flex flex-col gap-4">
-		<h2 class="text-2xl font-bold">
-			<a class="hover:underline" href={`/${post.slug}`}>{post.title}</a>
-		</h2>
-		<p class="text-sm text-base-content/70">{post.desc}</p>
-	</div>
+<div class="text-center">
+  <img
+    src="/img/pausefordramaticeffect.com-ch01-hero-2022.jpg"
+    alt="PAUSE for Dramatic Effect"
+    width="700"
+    height="400"
+  />
+  <h1 class="text-5xl font-bold pt-4 pb-4">PAUSE for Dramatic Effect</h1>
+</div>
+
+<div class="text-center">
+  <h2 class="text-3xl font-bold pt-4 pb-2">Not all nightmares happen...</h2>
+  <h2 class="text-3xl font-bold pb-4">...when you sleep!</h2>
+</div>
+
+<div>
+  <p class="pt-1 pb-4 text-lg text-base-content/80">
+    <strong>Douglas Dire's</strong> world is one of isolation. Once a decorated Iraq
+    War veteran, he now roams the streets haunted by the memory of friends lost in
+    combat. With a fleeting grip on reality, a dark past full of unresolved pain,
+    and a hopeless future, Douglas stumbles upon a ring in an empty parking lot that
+    forces him to confront a secret he didn't know he was keeping.
+
+    <p class="pt-1 pb-4 text-lg text-base-content/80">
+      Introducting Pause for Dramatic Effect, an audio drama podcast about a US
+      Marine Corps veteran challenged by survivor's guilt, dark forces, and
+      ancient magic.
+    </p>
+  </p>
+
+  <div>
+    <h2 class="text-3xl font-bold pt-4 pb-2">Recent Episodes</h2>
+  </div>
+
+  <div class="py-6 flex flex-blog flex-row-reverse gap-6 md:gap-10 items-start">
+    {
+      post.img && (
+        <a href={`/${post.slug}`} class="shrink-0">
+          <img
+            src={post.img}
+            alt={post.title}
+            width="160"
+            height="160"
+            class="w-20 h-20 md:w-40 md:h-40 rounded bg-base-200 object-cover"
+          />
+        </a>
+      )
+    }
+    <div class="flex flex-col gap-4">
+      <h2 class="text-2xl font-bold">
+        <a class="hover:underline" href={`/${post.slug}`}>{post.title}</a>
+      </h2>
+      <p class="text-sm text-base-content/70">{post.desc}</p>
+    </div>
+  </div>
 </div>

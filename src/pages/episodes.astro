@@ -1,0 +1,23 @@
+---
+import { published } from "@data/post";
+import Blog from "@layouts/blog";
+import Preview from "@components/blog/episodes";
+
+const markdownFiles = await Astro.glob("../content/**/*.md");
+const posts = published(markdownFiles);
+---
+
+<Blog>
+  <div class="pt-8">
+    <img
+      src="/img/pausefordramaticeffect.com-episodes-hero-2022.jpg"
+      alt="PAUSE for Dramatic Effect | Episodes"
+      width="700"
+      height="400"
+    />
+  </div>
+  <h1 class="text-5xl font-bold pt-8 pb-8">Episodes</h1>
+  <div>
+    {posts.map((p) => <Preview post={p} />)}
+  </div>
+</Blog>

@@ -1,14 +1,103 @@
 ---
-import { published } from "@data/post"
-import Blog from "@layouts/blog";
-import Preview from "@components/blog/preview";
+import Page from "@layouts/page";
+// import { published } from "@data/post"
+// import Blog from "@layouts/blog";
+// import Preview from "@components/blog/preview";
 
-const markdownFiles = await Astro.glob('../content/**/*.md')
-const posts = published( markdownFiles );
+// const markdownFiles = await Astro.glob('../content/**/*.md')
+// const posts = published( markdownFiles );
 ---
 
-<Blog>
-	<div>
-		{posts.map((p) => <Preview post={p} />)}
-	</div>
-</Blog>
+<Page>
+  <div class="grid gap-0 place-content-center">
+    <img
+      src="/img/pausefordramaticeffect.com-ch01-hero-2022.jpg"
+      alt="PAUSE for Dramatic Effect"
+      width="700"
+      height="400"
+    />
+  </div>
+  <div class="text-center">
+    <h1 class="text-5xl font-bold">PAUSE for Dramatic Effect</h1>
+    <h2 class="text-3xl font-bold">
+      Not all nightmares happen...<br />...when you sleep!
+    </h2>
+  </div>
+
+  <div>
+    <p class="text-lg text-base-content/80">
+      <strong>Douglas Dire's</strong> world is one of isolation. Once a decorated
+      Iraq War veteran, he now roams the streets haunted by the memory of friends
+      lost in combat. With a fleeting grip on reality, a dark past full of unresolved
+      pain, and a hopeless future, Douglas stumbles upon a ring in an empty parking
+      lot that forces him to confront a secret he didn't know he was keeping.
+    </p>
+  </div>
+
+  <div>
+    <h2 class="text-3xl font-bold">Season 1 - False Awakenings (Trailer)</h2>
+    <audio
+      id="player"
+      controls
+      type="audio/mpeg"
+      src="https://op3.dev/e/storage.googleapis.com/storage.oncetold.net/80000001/20800050/introducing-pause-for-dramatic-effect.mp3"
+      >Your browser does not support the audio element.</audio
+    >
+  </div>
+  <div>
+    <p class="text-lg text-base-content/80">
+      Introducing Pause for Dramatic Effect, an audio drama podcast about a US
+      Marine Corps veteran challenged by survivor's guilt, dark forces, and
+      ancient magic.
+    </p>
+  </div>
+
+  <div>
+    <h2 class="text-3xl font-bold">Listen to the Show</h2>
+  </div>
+  <div>
+    <ul>
+      <li>
+        <a
+          href="https://storage.googleapis.com/feeds.oncetold.net/80000001.rss"
+          target="_blank">RSS Feed</a
+        >
+      </li>
+
+      <li>
+        <a href="https://podcastindex.org/podcast/5925783" target="_blank"
+          >Podcast Index</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://podcasts.apple.com/us/podcast/pause-for-dramatic-effect/id1484748208"
+          target="_blank">Apple Podcasts</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://open.spotify.com/show/3OFUmELHmDtWIU0PPCfjiu"
+          target="_blank">Spotify</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLm9uY2V0b2xkLm5ldC84MDAwMDAwMS5yc3M"
+          target="_blank">Google Podcasts</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://music.amazon.com/podcasts/3f005b06-2dab-41f9-b3a7-4b210d422053/pause-for-dramatic-effect"
+          target="_blank">Amazon Music</a
+        >
+      </li>
+      <li>
+        <a href="https://podnews.net/podcast/ia85z" target="_blank"
+          >Find a Player</a
+        >
+      </li>
+    </ul>
+  </div>
+</Page>
