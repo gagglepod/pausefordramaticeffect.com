@@ -2,7 +2,7 @@
 title: Chapter 17 - Jackknife
 date: 2023-01-17
 author: Kyle M. Bondo
-desc: Thomas Black is put away in a very special prison... for now.
+desc: In the PAUSE for Dramatic Effect Season 1 Finale, Thomas Black is put away in a very special prison... for now!
 img: /img/pausefordramaticeffect.com-ch01-hero-2022.jpg
 imgWidth: 700
 imgHeight: 400
@@ -10,7 +10,7 @@ imgHeight: 400
 
 ## Overview
 
-Thomas Black is put away in a very special prison... for now.
+In the PAUSE for Dramatic Effect Season 1 Finale, Thomas Black is put away in a very special prison... for now!
 
 ## Play Now
 

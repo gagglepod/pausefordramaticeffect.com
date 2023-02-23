@@ -1,9 +1,9 @@
 ---
 import { published } from "@data/post";
 import Blog from "@layouts/blog";
-import Preview from "@components/blog/episodes";
+import Episodes from "@components/blog/episodes";
 
-const markdownFiles = await Astro.glob("../content/**/*.md");
+const markdownFiles = await Astro.glob("../content/season1/**/*.md");
 const posts = published(markdownFiles);
 ---
 
@@ -18,6 +18,6 @@ const posts = published(markdownFiles);
   </div>
   <h1 class="text-5xl font-bold pt-8 pb-8">Episodes</h1>
   <div>
-    {posts.map((p) => <Preview post={p} />)}
+    {posts.map((p) => <Episodes post={p} />)}
   </div>
 </Blog>
