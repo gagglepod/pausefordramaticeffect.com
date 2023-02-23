@@ -1,8 +1,8 @@
 ---
-title: Chapter 1 - Ring
-date: 2022-12-01
+title: Chapter 13 - Wormhole
+date: 2022-12-28
 author: Kyle M. Bondo
-desc: We meet Douglas Dire as he discovers a very interesting ring.
+desc: Zababa discovers that the vault contains more than just his treasure.
 img: /img/pausefordramaticeffect.com-ch01-hero-2022.jpg
 imgWidth: 700
 imgHeight: 400
@@ -10,11 +10,11 @@ imgHeight: 400
 
 ## Overview
 
-We meet Douglas Dire as he discovers a very interesting ring.
+Zababa discovers that the vault contains more than just his treasure.
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="https://op3.dev/e/storage.googleapis.com/storage.oncetold.net/80000001/20800001/pause-ch1-ring-2021-remaster.mp3">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://op3.dev/e/storage.googleapis.com/storage.oncetold.net/80000001/20800021/pause-ch13-wormhole-2021-remaster.mp3">Your browser does not support the audio element.</audio>
 
 ## About the Show
 

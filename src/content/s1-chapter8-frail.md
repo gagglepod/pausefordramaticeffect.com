@@ -1,8 +1,8 @@
 ---
-title: Chapter 1 - Ring
-date: 2022-12-01
+title: Chapter 8 - Frail
+date: 2022-12-08
 author: Kyle M. Bondo
-desc: We meet Douglas Dire as he discovers a very interesting ring.
+desc: Douglas remembers a forgotten secret while trying to break the Shadow Man's spell.
 img: /img/pausefordramaticeffect.com-ch01-hero-2022.jpg
 imgWidth: 700
 imgHeight: 400
@@ -10,11 +10,11 @@ imgHeight: 400
 
 ## Overview
 
-We meet Douglas Dire as he discovers a very interesting ring.
+Douglas remembers a forgotten secret while trying to break the Shadow Man's spell.
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="https://op3.dev/e/storage.googleapis.com/storage.oncetold.net/80000001/20800001/pause-ch1-ring-2021-remaster.mp3">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://op3.dev/e/storage.googleapis.com/storage.oncetold.net/80000001/20800009/pause-ch8-frail-2021-remaster.mp3">Your browser does not support the audio element.</audio>
 
 ## About the Show
 

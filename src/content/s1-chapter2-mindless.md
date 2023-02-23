@@ -1,6 +1,6 @@
 ---
 title: Chapter 2 - Mindless
-date: 2022-12-04
+date: 2022-12-02
 author: Kyle M. Bondo
 desc: Douglas begins to hear strange sounds as he struggles with his own paranoia.
 img: /img/pausefordramaticeffect.com-ch01-hero-2022.jpg

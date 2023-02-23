@@ -1,20 +1,19 @@
 ---
-title: Chapter 1 - Ring
-date: 2022-12-01
+title: Chapter 14 - Groundhog
+date: 2022-12-30
 author: Kyle M. Bondo
-desc: We meet Douglas Dire as he discovers a very interesting ring.
-img: /img/pausefordramaticeffect.com-ch01-hero-2022.jpg
+desc: Douglas reveals how he got the upper hand on Thomas and Zababa.
 imgWidth: 700
 imgHeight: 400
 ---
 
 ## Overview
 
-We meet Douglas Dire as he discovers a very interesting ring.
+Douglas reveals how he got the upper hand on Thomas and Zababa.
 
 ## Play Now
 
-<audio id="player" controls type="audio/mpeg" src="https://op3.dev/e/storage.googleapis.com/storage.oncetold.net/80000001/20800001/pause-ch1-ring-2021-remaster.mp3">Your browser does not support the audio element.</audio>
+<audio id="player" controls type="audio/mpeg" src="https://op3.dev/e/storage.googleapis.com/storage.oncetold.net/80000001/20800029/pause-ch14-groundhog-2021-remaster.mp3">Your browser does not support the audio element.</audio>
 
 ## About the Show
 
