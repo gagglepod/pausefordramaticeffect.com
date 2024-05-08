@@ -10,5 +10,9 @@ export const nav = [
   {
     title: 'Extras',
     slug: '/extras',
+  },
+  {
+    title: 'Scripts',
+    slug: '/scripts',
   }
 ]

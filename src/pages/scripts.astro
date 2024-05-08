@@ -1,9 +1,9 @@
 ---
 import { published } from "@data/post";
 import Blog from "@layouts/blog";
-import Behind from "@components/blog/behind";
+import Script from "@components/blog/script";
 
-const markdownFiles = await Astro.glob("../content/behind1/**/*.md");
+const markdownFiles = await Astro.glob("../content/script1/**/*.md");
 const posts = published(markdownFiles);
 ---
 
@@ -11,13 +11,13 @@ const posts = published(markdownFiles);
   <div class="pt-8">
     <img
       src="/img/pausefordramaticeffect.com-extras-hero-2022.jpg"
-      alt="PAUSE for Dramatic Effect | Extras"
+      alt="PAUSE for Dramatic Effect | Scripts"
       width="700"
       height="400"
     />
   </div>
-  <h1 class="text-5xl font-bold pt-8 pb-8">Extras</h1>
-  <h2 class="text-3xl font-bold">Making of an Audio Drama</h2>
+  <h1 class="text-5xl font-bold pt-8 pb-8">Scripts</h1>
+  <h2 class="text-3xl font-bold">Audio Drama Episode Scripts</h2>
   <p class="pb-4 pt-4 text-lg text-base-content/80">
     Pause for Dramatic Effect is written, directed, and produced by Kyle M.
     Bondo (Gagglepod/<a href="https://oncetold.us" target="_blank">Oncetold</a>)
@@ -28,6 +28,6 @@ const posts = published(markdownFiles);
     trailers.
   </p>
   <div>
-    {posts.map((p) => <Behind post={p} />)}
+    {posts.map((p) => <Script post={p} />)}
   </div>
 </Blog>

@@ -32,9 +32,8 @@ Douglas Dire's world is one of isolation. Once a decorated Iraq War veteran, he 
 ## Listen to the Show
 
 - <a href="https://storage.googleapis.com/feeds.oncetold.net/80000001.rss" target="_blank">RSS Feed</a>
-- <a href="https://podcastindex.org/podcast/5925783" target="_blank">Podcast Index</a>
+- <a href="https://podcastindex.org/podcast/847866" target="_blank">Podcast Index</a>
 - <a href="https://podcasts.apple.com/us/podcast/pause-for-dramatic-effect/id1484748208" target="_blank">Apple Podcasts</a>
-- <a href="https://open.spotify.com/show/3OFUmELHmDtWIU0PPCfjiu" target="_blank">Spotify</a>
-- <a href="https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLm9uY2V0b2xkLm5ldC84MDAwMDAwMS5yc3M" target="_blank">Google Podcasts</a>
+- <a href="https://open.spotify.com/show/7HC8nqqbtf3CKzOCWR57wH" target="_blank">Spotify</a>
 - <a href="https://music.amazon.com/podcasts/3f005b06-2dab-41f9-b3a7-4b210d422053/pause-for-dramatic-effect" target="_blank">Amazon Music</a>
-- <a href="https://podnews.net/podcast/ia85z" target="_blank">Find a Player</a>
+- <a href="https://episodes.fm/1484748208" target="_blank">Find a Player</a>

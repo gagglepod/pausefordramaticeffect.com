@@ -1,8 +1,8 @@
 ---
-title: Extra 1 - Ideas Between the Pauses
-date: 2023-01-22
+title: Chapter 1 Script
+date: 2022-12-1
 author: Kyle M. Bondo
-desc: Writer and director Kyle M. Bondo talks about the making of Pause for Dramatic Effect and describes how he came up with the idea for this audio drama in the first place.
+desc: The script for Chapter 1 - Ring. In this script we meet Douglas Dire as he discovers a very interesting ring.
 img: /img/pausefordramaticeffect.com-ch01-hero-2022.jpg
 imgWidth: 700
 imgHeight: 400
@@ -10,11 +10,14 @@ imgHeight: 400
 
 ## Overview
 
-Writer and director Kyle M. Bondo talks about the making of Pause for Dramatic Effect and describes how he came up with the idea for this audio drama in the first place.
+The script for Chapter 1 - Ring. In this script we meet Douglas Dire as he discovers a very interesting ring.
 
-## Play Now
+## Read Now
 
-<audio id="player" controls type="audio/mpeg" src="https://op3.dev/e/storage.googleapis.com/storage.oncetold.net/80000001/20800041/between-the-pauses-ep01-idea.mp3">Your browser does not support the audio element.</audio>
+<a href="https://storage.googleapis.com/storage.oncetold.net/80000001/pause-ch.01-ring-v3-10272019.pdf
+" target="_blank">Pause Chapter 1 - Ring [PDF]</a>
+
+<!-- <audio id="player" controls type="audio/mpeg" src="https://op3.dev/e/storage.googleapis.com/storage.oncetold.net/80000001/20800041/between-the-pauses-ep01-idea.mp3">Your browser does not support the audio element.</audio> -->
 
 ## About the Show
 
