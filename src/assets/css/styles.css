@@ -39,15 +39,15 @@
   --color-secondary: #bf6c5e;
   --color-tertiary: #006a77;
 
-  --color-background: #453F3F;
+  --color-background: #524B41;
   --color-dino-sky: #385266;
 
-  --color-dino-ride: #231f1f;
+  --color-dino-ride: #2A2D2F;
   --color-bottom: #332F30;
-  --color-footer: #332F30;
+  --color-footer: #524B41;
 
   --color-dino-skin: #CB171E;
-  --color-dino-flow: #885638;
+  --color-dino-flow: #A15C2F;
 
   --color-accent: #F37B20;
   --color-light: #F1D3CA;
@@ -258,7 +258,7 @@ a {
 /* Buttons */
 
 .btn {
-  border-radius: 40px;
+  border-radius: 20px;
   border: 0;
   cursor: pointer;
   font-size: 1.8rem;
@@ -303,6 +303,15 @@ a {
 
 .btn--dino-skin:hover {
   background: var(--color-dino-flow);
+}
+
+.btn--dino-sky {
+  background: var(--color-dino-sky);
+  color: #fff;
+}
+
+.btn--dino-sky:hover {
+  background: var(--color-dino-skin);
 }
 
 .btn--accent {

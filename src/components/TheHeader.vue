@@ -7,8 +7,8 @@
       <a class="nav__brand" href="/" :class="{ 'hidden-mobile': isActive }">
         <img
           class="logo-text logo-primary"
-          src="../assets/images/danger-sold-separately-title-500x158.png"
-          alt="Danger Sold Separately Logo"
+          src="../assets/images/pause-title-500x125.png"
+          alt="PAUSE for Dramatic Effect Logo"
         />
       </a>
       <ul class="list nav__list collapsible__content">
@@ -59,7 +59,7 @@ export default {
 
 .logo-text {
   width: 300px;
-  padding-bottom: 0.25rem;
+  padding: 0.5rem 0 0.25rem;
 }
 
 .logo--primary {
@@ -131,12 +131,12 @@ export default {
 .nav__item {
   padding: 0.5rem 2rem;
   border-bottom: 1px solid #222;
-  font-size: 1.8rem;
+  font-size: 2rem;
   text-transform: uppercase;
 }
 
 .nav__item > a {
-  color: #f1d3ca;
+  color: #fffff0;
   transition-property: color 0.3s;
 }
 

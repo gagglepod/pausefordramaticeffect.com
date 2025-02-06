@@ -14,23 +14,15 @@
       <!-- extras-detail #1 -->
       <article class="extras-detail">
         <div class="extras-detail__content">
-          <h2 class="extras-detail__heading">PART.01</h2>
-          <h3 class="extras-detail__subhead">BREWTALLY WRECKED (CHAPTERS 1-5)</h3>
+          <h3 class="extras-detail__subheading">Making of an Audio Drama</h3>
           <p class="extras-detail__info">
-            In BREWTALLY WRECKED, Part 1 of Three-Minute Joe, retired Admiral Moose and
-            Senior Chief Kittyhawk, co-owners of the Three-Minute Joe coffee shop, are
-            thrust into a battle for survival and revenge after being named "Best Coffee
-            in America." Their debate over selling Moose's award-winning "Four Horsemen"
-            recipe to corporate giant Bizzlebean is interrupted by a break-in, revealing a
-            plot to steal the secret recipe. The situation escalates when the burglars,
-            including former comrade Nightmare and Bizzlebean agent Kitch, reveal a bomb
-            planted in the shop. Despite their best efforts, the coffee shop is destroyed
-            in an explosion, leaving the trio to grapple with their losses while
-            questioning Bizzlebean’s sinister motives. With the help of Nightmare, whose
-            past ties to Bizzlebean complicate matters, Moose and Kittyhawk vow to rebuild
-            and strike back, while Kitch faces the wrath of his boss, Brutus, who orders
-            him to eliminate Nightmare and Kittyhawk. As the fight for the "Four Horsemen"
-            recipe intensifies, the stage is set for a brewing war against Bizzlebean.
+            Pause for Dramatic Effect is written, directed, and produced by Kyle M. Bondo
+            (Gagglepod/Oncetold) as part of the
+            <a href="https://napodpomo.org/" target="_blank"
+              >2019 NaPodPoMo (National Podcast Post Month) Challenge (Produce 30 Episodes
+              in 30 Days)</a
+            >. At the end of the challenge, Season 1 of PAUSE included 17 Script:
+            Chapters, 13 Behind the PAUSES "Making Of" episodes, and 2 trailers.
           </p>
         </div>
       </article>
@@ -38,171 +30,162 @@
       <!-- extras-detail #2 -->
       <article class="extras-detail">
         <div class="extras-detail__content">
-          <h2 class="extras-detail__heading">PART.02</h2>
-          <h3 class="extras-detail__subhead">BREWSTATION ZERO (CHAPTERS 6-10)</h3>
+          <h3 class="extras-detail__subheading">Between the Pauses</h3>
           <p class="extras-detail__info">
-            In BREWSTATION ZERO, Part 2 of Three-Minute Joe, Moose and Nightmare are
-            captured by Penny, Nightmare’s manipulative ex, who’s now working with
-            Bizzlebean. Ambushed by Penny and her goons, the duo is taken to Dr. Grinder's
-            lab, where they learn the twisted plan to forcibly extract the "Four Horsemen"
-            recipe from Moose's mind using the "Mind Grinder." Despite Moose’s incoherent
-            ramblings and a chaotic rescue mission led by Kittyhawk and her ninja ally
-            Mumbles, Penny manages to escape with crucial secrets, and Nightmare
-            heroically sacrifices himself to ensure Moose and Kitty’s escape. Back at
-            Bizzlebean’s headquarters, Penny tries to salvage the debacle by presenting a
-            fake recipe to Brutus, who eagerly moves forward with plans to mass-produce
-            the "Fifth Horseman" blend for his global domination scheme. The stakes are
-            higher than ever as the battle for the recipe intensifies and the absurdity
-            reaches new heights.
+            I am currently re-releasing my 13 Part Series
+            <em>Between the Pauses: The Making of PAUSE for Dramatic Effect</em>, on
+            <a href="https://noteasilysquished.com" target="_blank">Not Easily Squished</a
+            >. <em>Between the Pauses</em> is a mini-documentary created from my weekly
+            production journal that explores all the lessons I learned while making my
+            first audio drama.
           </p>
+          <ul>
+            <li>
+              <a
+                href="https://podcastindex.org/podcast/6014487?episode=22338508952"
+                target="_blank"
+                >Ideas Between the Pauses (Part 1)</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://podcastindex.org/podcast/6014487?episode=22670975272"
+                target="_blank"
+                >Voices Between the Pauses (Part 2)</a
+              >
+            </li>
+            <li>
+              <a
+                href="#https://podcastindex.org/podcast/6014487?episode=23106121192"
+                target="_blank"
+                >Process Between the Pauses (Part 3)</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://podcastindex.org/podcast/6014487?episode=23479933541"
+                target="_blank"
+                >Mistakes Between the Pauses (Part 4)</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://podcastindex.org/podcast/6014487?episode=23822781404"
+                target="_blank"
+                >Actors Between the Pauses (Part 5)</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://podcastindex.org/podcast/6014487?episode=27259738792"
+                target="_blank"
+                >Sounds Between the Pauses (Part 6)</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://podcastindex.org/podcast/6014487?episode=33375826356"
+                target="_blank"
+                >Gear Between the Pauses (Part 7)</a
+              >
+            </li>
+            <li>
+              <a href="#" target="_blank">Quality Between the Pauses (Part 8)</a>
+            </li>
+            <li>
+              <a href="#" target="_blank">Music Between the Pauses (Part 9)</a>
+            </li>
+            <li>
+              <a href="#" target="_blank">Philosophy Between the Pauses (Part 10)</a>
+            </li>
+            <li>
+              <a href="#" target="_blank">Lessons Between the Pauses (Part 11)</a>
+            </li>
+            <li>
+              <a href="#" target="_blank">Gratitude Between the Pauses (Part 12)</a>
+            </li>
+            <li>
+              <a href="#" target="_blank"
+                >Drinking from the Audio Drama Firehose (Part 13)</a
+              >
+            </li>
+          </ul>
         </div>
       </article>
 
-      <!-- extras-detail #3 -->
+      <!-- extras-detail #2 -->
       <article class="extras-detail">
         <div class="extras-detail__content">
-          <h2 class="extras-detail__heading">PART.03</h2>
-          <h3 class="extras-detail__subhead">BREWING UP A STORM (CHAPTERS 11-15)</h3>
+          <h3 class="extras-detail__subheading">Production Scripts</h3>
           <p class="extras-detail__info">
-            In BREWING UP A STORM, Part 3 of Three-Minute Joe, Moose and his team face
-            escalating chaos as they battle Bizzlebean’s relentless tactics. Moose, stuck
-            in the V.A. hospital with a worsening heart condition, narrowly escapes a hit
-            from a Space Force assassin, using his sharp wit to stall for time. Meanwhile,
-            Kitty and Mumbles infiltrate a Bizzlebean coffee shop, rescuing Crowbar, a
-            former Marine turned enslaved barista, and igniting a chaotic escape. As the
-            trio bands together, they evade Bizzlebean’s armed barista army, with Crowbar
-            unleashing his rage in a spectacular revenge spree. Back at the hospital,
-            Kitty uncovers a dark conspiracy surrounding Moose’s disappearance, leading
-            the team to suspect a traitor within NCIS. Meanwhile, Brutus gleefully moves
-            forward with his world domination plan, now armed with Moose's final
-            ingredient for the "Fifth Horseman" coffee. The stage is set for a high-stakes
-            showdown as the Three-Minute Joes regroup to take on Bizzlebean's brewing
-            storm.
+            The story of PAUSE for Dramatic Effect started as a pre-selected, one-word
+            writing prompt challenge called "Inktober" in October 2019. Each word in the
+            prompt inspired the title and script for what would become an episode. Of the
+            30 words, I chose 17 to become Script: Chapters by merging several Script:
+            Chapters together. Each episode script was written the day before (and
+            sometimes day-of) recording an episode with few re-recording or script edits.
+            Whatever I wrote became the dialogue of that episode.
           </p>
-        </div>
-      </article>
-
-      <!-- extras-detail #4 -->
-      <article class="extras-detail">
-        <div class="extras-detail__content">
-          <h2 class="extras-detail__heading">PART.04</h2>
-          <h3 class="extras-detail__subhead">BREWED AWAKENING (CHAPTERS 16-20)</h3>
-          <p class="extras-detail__info">
-            In BREWED AWAKENING, Part 4 of Three-Minute Joe, the Joes are thrown into a
-            chaotic series of events as they race to rescue Moose and confront
-            Bizzlebean’s ever-increasing threats. Mumbles, posing as an unlikely fighter,
-            faces off against Mustang, now known as "Warhorse," in a disastrous
-            underground fight, leading to shocking revelations about Moose’s new role as a
-            Bizzlebean barista. The team interrogates Mustang, uncovering that Moose is
-            trapped in Bizzlebean’s brutal barista training program, where mistakes are
-            met with cruel punishments. With Moose and Nightmare fighting for survival,
-            they manage a daring escape, only to find themselves trapped again in another
-            Bizzlebean location, where they recruit a clueless but valuable ally,
-            "Bermuda," as their comms guy. Meanwhile, Brutus, facing mounting corporate
-            disasters and personal discomfort, escalates his pursuit of the rogue
-            baristas, with plans to eliminate them once and for all. As the Joes regroup
-            and prepare for their next move, Bizzlebean’s grip tightens, setting the stage
-            for a full-blown confrontation.
-          </p>
-        </div>
-      </article>
-
-      <!-- extras-detail #5 -->
-      <article class="extras-detail">
-        <div class="extras-detail__content">
-          <h2 class="extras-detail__heading">PART.05</h2>
-          <h3 class="extras-detail__subhead">BREWED THE HARD WAY (CHAPTERS 21-25)</h3>
-          <p class="extras-detail__info">
-            In BREWED THE HARD WAY, Part 5 of Three-Minute Joe, the stakes continue to
-            rise as the team faces escalating danger from Bizzlebean's ever-growing
-            network of chaos. Kitty and Mumbles engage in a brutal fight with Raven, a
-            former lawyer turned ninja, leading to shocking revelations about their
-            intertwined past and Mustang's fate. Meanwhile, Deuce and Crowbar are forced
-            to contend with Bizzlebean's infiltration of the highest levels of government,
-            questioning their own chain of command as they narrowly escape a merciless
-            attack. Moose, Nightmare, and their new recruit, Connor, find themselves in
-            the crossfire during a violent confrontation at a Bizzlebean coffee shop, as
-            armed customers and managers turn the place into a battleground. The team
-            regroups at Kitty’s Chicken Ranch, tensions flare, and plans form for a final
-            showdown with Mustang, but Bizzlebean is unraveling from within, with Brutus
-            struggling to maintain control over his crumbling empire. As the chaos
-            escalates, new alliances are forged, and the Joes must prepare for their most
-            dangerous move yet.
-          </p>
-        </div>
-      </article>
-
-      <!-- extras-detail #6 -->
-      <article class="extras-detail">
-        <div class="extras-detail__content">
-          <h2 class="extras-detail__heading">PART.06</h2>
-          <h3 class="extras-detail__subhead">BREWED FURY (CHAPTERS 26-30)</h3>
-          <p class="extras-detail__info">
-            In BREWED FURY, Part 6 of Three-Minute Joe, the Joes face escalating threats
-            as their battle with Bizzlebean intensifies. After capturing Mustang, the team
-            learns of Bizzlebean's sinister plan to use the Four Horsemen recipe for an
-            addictive new blend, only for Moose to outsmart him with false intel, leading
-            to Mustang’s unexpected demise at Mumbles' hands. With a fresh sense of
-            purpose, the team begins unraveling Bizzlebean’s dark conspiracy, including
-            brain-chipped baristas and Brutus’s role as the mastermind. A daring rescue
-            mission at a Bizzlebean coffee shop results in the liberation of Spoon, a
-            massive barista, who joins the Joes' ranks. Meanwhile, Deuce uncovers the
-            warehouse where Bizzlebean manufactures mind-control chips, leading to a
-            dangerous ambush that leaves Molly in peril and the team facing a tough
-            ultimatum. Brutus, in turn, prepares to deploy a terrifying new weapon, the
-            Brewzerker, to capture Kitty and eliminate the Joes, setting the stage for a
-            fierce showdown.
-          </p>
-        </div>
-      </article>
-
-      <!-- extras-detail #7 -->
-      <article class="extras-detail">
-        <div class="extras-detail__content">
-          <h2 class="extras-detail__heading">PART.07</h2>
-          <h3 class="extras-detail__subhead">BREWTALITION (CHAPTERS 31-35)</h3>
-          <p class="extras-detail__info">
-            In BREWTALITION, Part 7 of Three-Minute Joe, the Joes take the fight directly
-            to Bizzlebean with a high-risk infiltration mission. The team sneaks into the
-            secret chip factory, but things quickly spiral into chaos when Bermuda’s mom
-            is discovered and Deuce barely survives a brutal attack. As the group
-            scrambles to save Deuce and escape, Bermuda’s unorthodox C-4 animal sculptures
-            (the Boom Zoo) terrorize Bizzlebean forces and trigger a catastrophic
-            explosion. Meanwhile, a malfunctioning Brewzerker, Brad, wreaks havoc, and it
-            takes Molly’s quick thinking to disable him using nothing but a spoon. With
-            the factory destroyed, the Joes regroup, but the stakes are raised when Molly
-            reveals she has crucial intel on Bizzlebean’s "Fifth Horseman" project. As the
-            team makes a daring escape, Brutus deals with the fallout, setting the stage
-            for an even more dangerous showdown, with Zain sent to eliminate the Joes once
-            and for all.
-          </p>
-        </div>
-      </article>
-
-      <!-- extras-detail #8 -->
-      <article class="extras-detail">
-        <div class="extras-detail__content">
-          <h2 class="extras-detail__heading">PART.08</h2>
-          <h3 class="extras-detail__subhead">BREW ON TO OTHERS (CHAPTERS 36-40)</h3>
-          <p class="extras-detail__info">Coming Soon!</p>
-        </div>
-      </article>
-
-      <!-- extras-detail #9 -->
-      <article class="extras-detail">
-        <div class="extras-detail__content">
-          <h2 class="extras-detail__heading">PART.09</h2>
-          <h3 class="extras-detail__subhead">BREWMUDA TRIANGLE (CHAPTERS 41-45)</h3>
-          <p class="extras-detail__info">Coming Soon!</p>
-        </div>
-      </article>
-
-      <!-- extras-detail #10 -->
-      <article class="extras-detail">
-        <div class="extras-detail__content">
-          <h2 class="extras-detail__heading">PART.10</h2>
-          <h3 class="extras-detail__subhead">BREW-HAHA (CHAPTERS 46-50, 51-52)</h3>
-          <p class="extras-detail__info">Coming Soon!</p>
+          [PDF]
+          <ul>
+            <li>
+              <a
+                href="https://storage.googleapis.com/storage.oncetold.net/80000001/20800001/pause-ch.01-ring-v3-10272019.pdf"
+                target="_blank"
+                >Script: Chapter 1 - Ring [PDF]</a
+              >
+            </li>
+            <li>
+              <a href="#" target="_blank">Script: Chapter 2 - Mindless [PDF]</a>
+            </li>
+            <li>
+              <a href="#" target="_blank">Script: Chapter 3 - Bait [PDF]</a>
+            </li>
+            <li>
+              <a href="#" target="_blank">Script: Chapter 4 - Freeze [PDF]</a>
+            </li>
+            <li>
+              <a href="#" target="_blank">Script: Chapter 5 - Build [PDF]</a>
+            </li>
+            <li>
+              <a href="#" target="_blank">Script: Chapter 6 - Husky [PDF]</a>
+            </li>
+            <li>
+              <a href="#" target="_blank">Script: Chapter 7 - Enchanted [PDF]</a>
+            </li>
+            <li>
+              <a href="#" target="_blank">Script: Chapter 8 - Frail [PDF]</a>
+            </li>
+            <li>
+              <a href="#" target="_blank">Script: Chapter 9 - Swing [PDF]</a>
+            </li>
+            <li>
+              <a href="#" target="_blank">Script: Chapter 10 - Witchhunt [PDF]</a>
+            </li>
+            <li>
+              <a href="#" target="_blank">Script: Chapter 11 - Dreamtime [PDF]</a>
+            </li>
+            <li>
+              <a href="#" target="_blank">Script: Chapter 12 - Strongroom [PDF]</a>
+            </li>
+            <li>
+              <a href="#" target="_blank">Script: Chapter 13 - Wormhole [PDF]</a>
+            </li>
+            <li>
+              <a href="#" target="_blank">Script: Chapter 14 - Groundhog [PDF]</a>
+            </li>
+            <li>
+              <a href="#" target="_blank">Script: Chapter 15 - Shipwreck [PDF]</a>
+            </li>
+            <li>
+              <a href="#" target="_blank">Script: Chapter 16 - Telltale [PDF]</a>
+            </li>
+            <li>
+              <a href="#" target="_blank"
+                >Script: Chapter 17 - Jackknife (Season Finale) [PDF]</a
+              >
+            </li>
+          </ul>
         </div>
       </article>
     </div>
@@ -223,10 +206,15 @@ export default {};
 }
 
 .extras-detail {
-  margin: 8rem;
+  margin: 4rem 2rem;
 }
 
 .extras-detail__heading {
+  margin: 1rem 0;
+}
+
+h3.extras-detail__subheading {
+  font-size: 3rem;
   margin: 1rem 0;
 }
 
@@ -253,5 +241,11 @@ export default {};
 .extras-detail a:hover {
   color: var(--color-placeholder);
   text-decoration: none;
+}
+
+@media screen and (min-width: 768px) {
+  .extras-detail {
+    margin: 4rem 8rem;
+  }
 }
 </style>

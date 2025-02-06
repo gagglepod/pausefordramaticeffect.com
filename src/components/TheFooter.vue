@@ -5,11 +5,11 @@
       <div class="footer__brand">
         <img
           class="footer-logo-text logo-primary"
-          src="../assets/images/danger-sold-separately-title-500x158.png"
-          alt="Danger Sold Separately Logo"
+          src="../assets/images/pause-title-500x125.png"
+          alt="PAUSE for Dramatic Effect Logo"
         />
         <p class="footer__copyright">
-          Copyright &copy; {{ currentYear }}. Danger Sold Separately and Oncetold.
+          Copyright &copy; {{ currentYear }}. PAUSE for Dramatic Effect and Oncetold.
         </p>
         <p class="footer__version">Website Version: {{ otVersion }}</p>
         <!-- <p class="footer__footnote">ver{{ otVersion }}</p> -->
@@ -20,31 +20,59 @@
         <div class="footer__navigation">
           <ul class="list">
             <li>
-              Subscribe:
-              <a href="https://podcastindex.org/podcast/6933361" target="_blank">RSS</a
+              Listen:
+
+              <a href="https://truefans.fm/pause-for-dramatic-effect" target="_blank"
+                >TrueFans</a
               >&nbsp;
-              <a href="https://podcastindex.org/podcast/6933361" target="_blank"
-                >Podcast Index</a
+              <a
+                href="https://podcasts.apple.com/us/podcast/pause-for-dramatic-effect/id1484748208"
+                target="_blank"
+                >Apple Podcasts</a
+              >&nbsp;
+              <a
+                href="https://open.spotify.com/show/7HC8nqqbtf3CKzOCWR57wH"
+                target="_blank"
+                >Spotify</a
+              >&nbsp;
+              <a
+                href="https://music.amazon.com/podcasts/3f005b06-2dab-41f9-b3a7-4b210d422053/pause-for-dramatic-effect"
+                target="_blank"
+                >Amazon Music</a
               >&nbsp;
             </li>
             <li>
-              Production:
+              Subscribe:
+              <a
+                href="https://storage.googleapis.com/feeds.oncetold.net/80000060.rss"
+                target="_blank"
+                >RSS</a
+              >&nbsp;
+              <a href="https://episodes.fm/1484748208" target="_blank">Episodes.fm</a
+              >&nbsp;
+              <a href="https://podcastindex.org/podcast/847866" target="_blank"
+                >Podcast Index</a
+              >&nbsp;
+              <a href="https://podverse.fm/podcast/EcA8PHohTh" target="_blank">Podverse</a
+              >&nbsp;
+            </li>
+            <li>
+              Extras:
               <a href="/about">Cast & Crew</a>&nbsp;
-              <a href="/extras">Behind the Scenes</a>&nbsp;
+              <a href="/extras">Between the Pauses</a>&nbsp;
               <a href="/extras">Scripts</a>&nbsp;
             </li>
             <li>
-              Hosting: <a href="https://oncetold.com" target="_blank">Oncetold</a>&nbsp;<a
-                href="https://oncetold.cloud"
+              Hosting: <a href="https://oncetold.com" target="_blank">Oncetold</a>&nbsp;
+              <a href="https://oncetold.cloud" target="_blank">Oncetold Login</a>&nbsp;
+              <a href="https://podnews.net/podcast/in3p?1715200125" target="_blank"
+                >Stats</a
+              >&nbsp;
+              <a
+                href="https://www.theend.fyi/shows/pause-for-dramatic-effect"
                 target="_blank"
-                >Oncetold Login</a
+                >Directory</a
               >
-            </li>
-            <li>
-              Apps:
-              <a href="https://podcastguru.io" target="_blank">PodcastGuru</a>&nbsp;
-              <a href="https://truefans.fm" target="_blank">TrueFans</a>&nbsp;
-              <a href="https://podverse.fm" target="_blank">Podverse</a>
             </li>
             <li>
               Guides:

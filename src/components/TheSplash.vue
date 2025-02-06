@@ -2,30 +2,47 @@
   <section class="splash-block splash-block--dark">
     <div class="container">
       <header class="splash-summary__header">
-        <a href="https://podcastindex.org/podcast/6933361" target="_blank">
+        <a href="https://podcastindex.org/podcast/847866" target="_blank">
           <picture class="splash-summary__image">
             <img
-              src="../assets/images/danger-sold-separately-1400x1400.jpg"
-              alt="Danger Sold Separately Showart"
+              src="../assets/images/pause-v4-1400x1400.jpg"
+              alt="PAUSE for Dramatic Effect Showart"
             />
           </picture>
         </a>
-        <h2>Danger Sold Separately</h2>
-        <h3 class="splash-summary__subhead">Season 01: Grounds for War</h3>
+        <h2>PAUSE for Dramatic Effect</h2>
+        <h3 class="splash-summary__subhead">Not all nightmares happen when you sleep!</h3>
         <p class="splash-summary__text">
-          When a sinister coffee empire threatens society, a ragtag group of veterans
-          fights back in a high-octane, satirical action-comedy brimming with dark humor
-          and caffeine-fueled chaos. If proves that the strongest steel is forged in the
-          fire of a dumpster!
+          Douglas Dire's world is one of isolation. Once a decorated Iraq War veteran, he
+          now roams the streets haunted by the memory of friends lost in combat. With a
+          fleeting grip on reality, a dark past full of unresolved pain, and a hopeless
+          future, Douglas stumbles upon a ring in an empty parking lot that forces him to
+          confront a secret he didn't know he was keeping.
         </p>
-        <a
-          href="https://lnbeats.com/album/2973941f-0d0e-5b33-8cee-a56647fb878d"
-          target="_blank"
+      </header>
+      <article class="splash-summary__article">
+        <h3 class="splash-summary__subhead">Season One Trailer</h3>
+        <audio
+          class="splash-player"
+          id="player"
+          controls
+          type="audio/mpeg"
+          src="https://op3.dev/e/storage.googleapis.com/storage.oncetold.net/80000001/20800050/introducing-pause-for-dramatic-effect.mp3"
+        >
+          Your browser does not support the audio element.
+        </audio>
+        <p class="splash-summary__text">
+          Introducing Pause for Dramatic Effect, an audio drama podcast about a US Marine
+          Corps veteran challenged by survivor's guilt, dark forces, and ancient magic.
+        </p>
+      </article>
+      <article class="splash-summary__article">
+        <a href="https://podcastindex.org/podcast/847866" target="_blank"
           ><button class="btn btn--dino-skin btn--stretched">
             Listen to the Show
           </button></a
         >
-      </header>
+      </article>
     </div>
   </section>
 </template>
@@ -87,6 +104,20 @@ export default {
   margin-bottom: 5rem;
 }
 
+.splash-summary__article {
+  text-align: center;
+  margin-bottom: 5rem;
+}
+
+.splash-player {
+  max-width: 30rem;
+  /* margin: 1rem 4rem; */
+}
+
+#player {
+  width: 100%;
+}
+
 .dashboard__brand {
   transform: translateY(5px);
 }
@@ -132,6 +163,11 @@ export default {
     line-height: 3.2rem;
     margin-top: 1rem 0 1rem;
     padding: 0 8rem 0 8rem;
+  }
+
+  .splash-player {
+    max-width: 60rem;
+    margin: 1rem 4rem;
   }
 }
 </style>

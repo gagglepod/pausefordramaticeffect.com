@@ -59,7 +59,7 @@ export default {
       // Reference the episodes collection under the specific site document
       const q = query(
         collection(db, `sites/${otSiteID}/episodes`),
-        orderBy("index", "desc")
+        orderBy("index", "asc")
       );
 
       const unsub = onSnapshot(q, (snapshot) => {

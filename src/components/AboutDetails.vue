@@ -4,12 +4,14 @@
       <!-- about-detail #1 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">Danger Sold Separately</h2>
+          <h2 class="about-detail__heading">The Story</h2>
           <p class="about-detail__info">
-            When a sinister coffee empire threatens society, a ragtag group of veterans
-            fights back in a high-octane, satirical action-comedy brimming with dark humor
-            and caffeine-fueled chaos. If proves that the strongest steel is forged in the
-            fire of a dumpster!
+            <strong>Douglas Dire's</strong> world is one of isolation. Once a decorated
+            Iraq War veteran, he now roams the streets haunted by the memory of friends
+            lost in combat. With a fleeting grip on reality, a dark past full of
+            unresolved pain, and a hopeless future, Douglas stumbles upon a ring in an
+            empty parking lot that forces him to confront a secret he didn't know he was
+            keeping.
           </p>
         </div>
       </article>
@@ -17,60 +19,191 @@
       <!-- about-detail #2 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">About Season 01</h2>
-          <p class="about-detail__info">
-            In Season 01: <em>GROUNDS FOR WAR</em>, the battle between the rogue baristas,
-            led by Moose and Kittyhawk, and the corporate giant Bizzlebean intensifies as
-            they fight for survival, revenge, and the secret recipe for the “Four
-            Horsemen” blend. After their coffee shop is destroyed in a bomb attack, the
-            team embarks on a series of high-risk missions, including infiltrating
-            Bizzlebean’s labs, rescuing allies, and uncovering the company’s sinister
-            plans.
-          </p>
-          <p class="about-detail__info">
-            Along the way, they face betrayals, strange conspiracies, and increasingly
-            dangerous threats, from mind-controlled baristas to malfunctioning combat
-            robots. They recruit new allies like Bermuda and Spoon, all while uncovering
-            dark secrets about Bizzlebean's global ambitions. As the team grows stronger
-            and more determined, they face off against increasingly ruthless enemies,
-            including the unpredictable Brutus, whose war on the Joes escalates. Each
-            mission brings them closer to discovering the truth behind Bizzlebean’s "Fifth
-            Horseman" project, setting the stage for an epic showdown.
-          </p>
-          <p class="about-detail__info">
-            Amidst the chaos, the absurdity of their situation reaches new heights,
-            blending outrageous action with dark comedy as they continue their fight
-            against the corporate behemoth. With danger around every corner, the stakes
-            are higher than ever, and the Joes must push forward, no matter the cost.
-          </p>
+          <h3 class="about-detail__subheading">Cast</h3>
+          <ul>
+            <li>
+              Lamassu:
+              <a href="https://www.stephanieycole.com/" target="_blank"
+                >Stephanie Y. Cole</a
+              >
+            </li>
+            <li>Captain Savage: <a href="#">Zach Bondo</a></li>
+            <li>Amira Nazal: <a href="#">Emmett Bondo</a></li>
+            <li>
+              Agent Justin Time:
+              <a href="https://createartpodcast.com/" target="_blank"
+                >Timothy Kimo Brien</a
+              >
+            </li>
+            <li>Agent Holly Day: <a href="#">Julie Bondo</a></li>
+            <li>
+              Douglas Dire and Zababa:
+              <a href="https://www.linkedin.com/in/kylebondo/" target="_blank"
+                >Kyle M. Bondo</a
+              >
+            </li>
+          </ul>
         </div>
       </article>
 
       <!-- about-detail #3 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">About the Production</h2>
-          <p class="about-detail__info">
-            Danger Sold Separately is a a comedy audio drama podcast, written and directed
-            by Kyle M. Bondo, and produced by Oncetold. Season 01 "GROUNDS FOR WAR" has 52
-            chapters/episodes divided into 10 parts. Each part has 5 chapters/episodes
-            with the last part containing 2 extra chapters in a two-part epilogue.
-            chapters.
-          </p>
+          <h3 class="about-detail__subheading">Production</h3>
+          <ul>
+            <li>
+              Excutive Producer:
+              <a href="https://www.linkedin.com/in/kylebondo/" target="_blank"
+                >Kyle M. Bondo</a
+              >
+            </li>
+            <li>
+              Writer:
+              <a href="https://www.linkedin.com/in/kylebondo/" target="_blank"
+                >Kyle M. Bondo</a
+              >
+            </li>
+            <li>
+              Director:
+              <a href="https://www.linkedin.com/in/kylebondo/" target="_blank"
+                >Kyle M. Bondo</a
+              >
+            </li>
+            <li>
+              Sound Design/Foley:
+              <a href="https://www.linkedin.com/in/kylebondo/" target="_blank"
+                >Kyle M. Bondo</a
+              >
+            </li>
+            <li>
+              Audio Editing:
+              <a href="https://www.linkedin.com/in/kylebondo/" target="_blank"
+                >Kyle M. Bondo</a
+              >
+            </li>
+            <li>
+              Podcast Production:
+              <a href="https://www.linkedin.com/in/kylebondo/" target="_blank"
+                >Kyle M. Bondo</a
+              >
+            </li>
+          </ul>
         </div>
       </article>
 
       <!-- about-detail #4 -->
       <article class="about-detail">
         <div class="about-detail__content">
-          <h2 class="about-detail__heading">Reach Out</h2>
-          <p class="about-detail__info">
-            Each episode of Danger Sold Separately was produced by Oncetold in Fort Worth,
-            Texas, and are always interested in what you liked about the show. If you have
-            constructive feedback, ideas for future episodes, or just want to tell us how
-            we did, please
-            <a href="mailto:oncetold.cloud@gmail.com" target="_blank">drop us a line!</a>
+          <h3 class="about-detail__subheading">Awards</h3>
+          <p>
+            Pause for Dramatic Effect was a 2019
+            <a href="https://www.podcastawards.com/" target="_blank"
+              >People's Choice Podcast Awards</a
+            >
+            nominee in the <em>Fiction</em> and <em>Storyteller - Drama</em>
+            categories.
           </p>
+        </div>
+      </article>
+
+      <!-- about-detail #5 -->
+      <article class="about-detail">
+        <div class="about-detail__content">
+          <h3 class="about-detail__subheading">Music</h3>
+          <ul>
+            <li>
+              <a
+                href="https://audiojungle.net/item/dramatic-orchestral-cello-ident/23210762"
+                target="_blank"
+                >Dramatic Orchestral Cello Ident</a
+              >: Blacksmith
+            </li>
+            <li>
+              <a
+                href="https://audiojungle.net/item/cinematic-ambient-cello/24229871"
+                target="_blank"
+                >Cinematic Ambient Cello</a
+              >: Orchestralis
+            </li>
+            <li>
+              <a
+                href="https://audiojungle.net/item/tuvan-throat-singing-ensemble/17298529"
+                target="_blank"
+                >Tuvan Throat Singing Ensemble</a
+              >: Tim Donovan
+            </li>
+            <li>
+              <a
+                href="https://audiojungle.net/item/holy-plainchant/23048424"
+                target="_blank"
+                >Holy Plainchant</a
+              >: Tyler River
+            </li>
+            <li>
+              <a
+                href="https://audiojungle.net/item/my-friends-oasis/11903840"
+                target="_blank"
+                >My Friend's Oasis</a
+              >: French-Art
+            </li>
+            <li>
+              <a href="https://audiojungle.net/item/inspiring/12467307" target="_blank"
+                >Inspiring Uplifting Emotional Piano</a
+              >: Red Lion Production
+            </li>
+          </ul>
+        </div>
+      </article>
+
+      <!-- about-detail #6 -->
+      <article class="about-detail">
+        <div class="about-detail__content">
+          <h3 class="about-detail__subheading">Production Notes</h3>
+          <ul>
+            <li>Created using friends and family (both volunteers and strong-armed).</li>
+            <li>
+              Homemade Foley sound effects created using a
+              <a href="https://amzn.to/3m22CRK" target="_blank">ZOOM H4N Pro</a>
+            </li>
+            <li>
+              Pre-recorded music purchased from
+              <a href="https://audiojungle.net" target="_blank">Audiojungle.net</a>
+            </li>
+            <li>
+              Story based on a pre-selected, one-word writing prompt challenge called
+              "Inktober". Each word in the prompt inspired the title and script for that
+              episode.
+            </li>
+            <li>
+              Episode scripts were written the day before (and sometimes day-of) recording
+              each episode.
+            </li>
+            <li>
+              In-house recording and audio editing were done using
+              <a href="https://www.adobe.com/products/audition.html" target="_blank"
+                >Adobe Audition</a
+              >
+            </li>
+            <li>
+              Additional voices (uncredited) were preformed by
+              <a href="https://www.linkedin.com/in/kylebondo/" target="_blank"
+                >Kyle M. Bondo</a
+              >, who filled in for all of the extra character voices (of which there were
+              several).
+            </li>
+            <li>
+              Originally launch and hosted on Libsyn but migrated to
+              <a href="https://oncetold.com" target="_blank">Oncetold</a> in 2024.
+            </li>
+          </ul>
+        </div>
+      </article>
+
+      <!-- about-detail #7 -->
+      <article class="about-detail">
+        <div class="about-detail__content">
+          <h3 class="about-detail__subheading">Disclaimer</h3>
+          <p>No friends or family were harmed during the making of this podcast.</p>
         </div>
       </article>
     </div>
@@ -93,10 +226,15 @@ export default {};
 }
 
 .about-detail {
-  margin: 8rem;
+  margin: 4rem 2rem;
 }
 
 .about-detail__heading {
+  margin: 1rem 0;
+}
+
+h3.about-detail__subheading {
+  font-size: 3rem;
   margin: 1rem 0;
 }
 
@@ -122,6 +260,10 @@ export default {};
 }
 
 @media screen and (min-width: 768px) {
+  .about-detail {
+    margin: 4rem 8rem;
+  }
+
   .about-qr-code {
     height: 120px;
     margin: 0;

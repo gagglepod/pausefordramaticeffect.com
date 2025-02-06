@@ -6,19 +6,9 @@
   </div>
 
   <div v-if="episode">
-    <!-- <section
-      class="episode-details-block block--episode-details"
-      v-if="episode && episode.image"
-      :style="{
-        backgroundImage:
-          'linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.5)), url(\'/images/' +
-          episode.image +
-          '\')',
-      }"
-    > -->
-    <section class="episode-details-block block--episode-details">
-      <!-- <SineWave /> -->
-      <div class="container">
+    <section class="episode-details-blob-block">
+      <div class="episode-details-container">
+        <!-- Adjusted container -->
         <header class="episode-details-block__header">
           <p class="episode-details__tags">
             <span
@@ -28,25 +18,47 @@
               >{{ tag }}</span
             >
           </p>
-          <h1 class="episode-details__heading">{{ episode.title }}</h1>
-          <h3 class="episode-details__shortline">{{ episode.excerpt }}</h3>
-          <p class="episode-details__author">By {{ episode.author }}</p>
-          <button class="btn btn--dino-skin btn--stretched" @click="router.back()">
-            Back to Episodes List
-          </button>
+          <a href="https://podcastindex.org/podcast/847866" target="_blank">
+            <picture class="episode-details__image">
+              <img :src="getImageUrl(episode.showArt)" :alt="episode.show + ' Showart'" />
+            </picture>
+          </a>
         </header>
-      </div>
-    </section>
-
-    <section class="episode-details-blob-block">
-      <div class="episode-details-container">
-        <!-- Adjusted container -->
         <!-- blog-post #1 -->
+
         <article class="episode-details-blob">
           <div class="episode-details-blob__content">
+            <h2 class="episode-details__title">{{ episode.title }}</h2>
+            <!-- <p>{{ episode.body }}</p> -->
             <div class="episode-details-blob__body" v-html="episode.body"></div>
+            <div class="episode-details-audio">
+              <audio
+                class="episode-details-player"
+                id="epPlayer"
+                controls
+                type="audio/mpeg"
+                :src="episode.media"
+              >
+                Your browser does not support the audio element.
+              </audio>
+            </div>
           </div>
         </article>
+
+        <!-- <article class="episode-details-blob" v-if="episode.extras">
+          <div class="episode-details-blob__content">
+            <h2 class="episode-details__extras">Extras</h2>
+            <a :href="episode.script" target="_blank"
+              >Script: {{ episode.title }} [PDF]</a
+            >
+          </div>
+        </article> -->
+
+        <footer class="episode-details-block__footer">
+          <button class="btn btn--dino-sky btn--stretched" @click="router.back()">
+            Back to Episodes List
+          </button>
+        </footer>
       </div>
     </section>
   </div>
@@ -61,12 +73,10 @@ import { db } from "../firebase/config";
 import { collection, query, where, getDocs } from "firebase/firestore";
 import { useRouter } from "vue-router";
 import TheSpinner from "../components/TheSpinner.vue";
-import SineWave from "../components/SineWave.vue"; // Import SineWave component
 
 export default {
   name: "EpisodesDetail",
   components: {
-    SineWave,
     TheSpinner,
   },
   props: ["slug"],
@@ -104,11 +114,17 @@ export default {
       }
     });
 
+    // Function to resolve the correct image path
+    const getImageUrl = (fileName) => {
+      return new URL(`../assets/images/${fileName}`, import.meta.url).href;
+    };
+
     return {
       episode,
       error,
       isLoading,
       router,
+      getImageUrl, // Ensure this function is returned so it can be used in the template
     };
   },
 };
@@ -137,7 +153,7 @@ export default {
 }
 
 .episode-details-container {
-  max-width: 720px;
+  max-width: 800px;
   margin: 0 auto;
 }
 
@@ -163,17 +179,17 @@ export default {
 .episode-details-tag-pill {
   display: inline-block;
   margin: 10px 10px 0 0;
-  color: var(--color-footer);
-  background: var(--color-light);
+  color: var(--color-headings);
+  background: var(--color-dino-sky);
   padding: 8px;
-  border-radius: 20px;
+  border-radius: 10px;
   font-size: 14px;
   min-width: 50px;
 }
 
 .episode-details-tag-pill:hover {
-  color: var(--color-placeholder);
-  background: var(--color-footer);
+  color: var(--color-headings);
+  background: var(--color-dino-skin);
 }
 
 .episode-details-block__header {
@@ -181,12 +197,17 @@ export default {
   margin: 0; /* Remove margin */
 }
 
-/* .episode-details-container {
-  max-width: 720px;
-  margin: 0 auto;
-} */
-
 .episode-details__heading {
+  margin-top: 1rem;
+}
+
+.episode-details__title {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.episode-details__extras {
+  /* text-align: center; */
   margin-top: 1rem;
 }
 
@@ -208,11 +229,87 @@ export default {
   padding: 0;
 }
 
+.episode-details__image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding: 2rem 0 1rem 0;
+}
+
+.episode-details__image > img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 2rem;
+}
+
 p.episode-details__content {
   margin: 1.6rem 0;
 }
 
-@media screen and (max-width: 768px) {
+.episode-details-blob {
+  padding: 0 2rem 2rem;
+}
+
+.episode-details-blob a {
+  color: var(--color-headings);
+  transition: color 0.3s;
+  text-decoration: underline;
+  font-size: 2.1rem;
+}
+
+.episode-details-blob a:hover {
+  color: var(--color-placeholder);
+  transition: color 0.3s;
+  text-decoration: none;
+}
+
+.episode-details-blob__body {
+  font-size: 2.1rem;
+  line-height: 3.2rem;
+  margin: 0 2rem 0 2rem;
+}
+
+.episode-details-blob__body a {
+  color: var(--color-headings);
+  transition: color 0.3s;
+  text-decoration: underline;
+}
+
+.episode-details-blob__body a:hover {
+  color: var(--color-placeholder);
+  text-decoration: none;
+}
+
+.episode-details-audio {
+  width: 100%;
+  padding: 2rem 4rem 1rem;
+}
+
+.episode-details-player {
+  max-width: 100%;
+  /* margin: 1rem 4rem; */
+}
+
+#epPlayer {
+  width: 100%;
+}
+
+.episode-details-block__footer {
+  text-align: center;
+  margin: 0 2rem 1rem;
+}
+
+@media screen and (min-width: 768px) {
+  .episode-details__image > img {
+    width: 500px;
+    height: 500px;
+    padding: 0;
+    margin-top: 1rem;
+    border-radius: 2rem;
+  }
+
   .block--episode-details {
     background-position: top; /* Adjusted background positioning */
   }
@@ -236,26 +333,10 @@ p.episode-details__content {
   .episode-details-blob__body {
     margin: 0 1rem; /* Adjust horizontal margin */
   }
-}
 
-.episode-details-blob {
-  padding: 2rem 0 2rem;
-}
-
-.episode-details-blob__body {
-  font-size: 2.1rem;
-  line-height: 3.2rem;
-  margin: 0 2rem 0 2rem;
-}
-
-.episode-details-blob__body a {
-  color: var(--color-headings);
-  transition: color 0.3s;
-  text-decoration: underline;
-}
-
-.episode-details-blob__body a:hover {
-  color: var(--color-placeholder);
-  text-decoration: none;
+  /* .episode-details-player {
+    max-width: 60rem;
+    margin: 1rem 4rem;
+  } */
 }
 </style>
